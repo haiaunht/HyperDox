@@ -1,0 +1,11 @@
+﻿  CommandHandler.cpp
+c:\users\haiau\source\repos\term project\term project\commandhandler.cpp(78): warning C4101: 'e': unreferenced local variable
+  Searching.cpp
+c:\users\haiau\source\repos\term project\term project\searching.cpp(83): warning C4018: '<': signed/unsigned mismatch
+c:\users\haiau\source\repos\term project\term project\searching.cpp(145): warning C4018: '<': signed/unsigned mismatch
+c:\users\haiau\source\repos\term project\term project\searching.cpp(168): warning C4018: '<': signed/unsigned mismatch
+c:\users\haiau\source\repos\term project\term project\searching.cpp(187): warning C4018: '>': signed/unsigned mismatch
+c:\users\haiau\source\repos\term project\term project\searching.cpp(197): warning C4018: '<': signed/unsigned mismatch
+  Term Project.cpp
+  Generating Code...
+  Term Project.vcxproj -> C:\Users\HaiAu\source\repos\Term Project\Debug\Term Project.exe
